@@ -25,6 +25,7 @@ public class Assignment1
 	{
 		this.m2(2, 3);
 		System.out.println("This is four parameterised method");
+		System.out.println("Hello");
 		
 	}
 	public static void main(String args[])
